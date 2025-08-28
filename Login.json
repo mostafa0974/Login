@@ -1,6 +1,6 @@
 [
-  { "user": "Aizen", "Mods": "Top", "type": "vip" },
-  { "user": "ab", "pass": "Top", "type": "vip" },
-  { "user": "ab1", "pass" "Top", "type": "vip" },
-  { "user": "ab3", "pass" "Top",  "type": "vip" }
+  { "user": "Aizen", "Mods": "mod14", "type": "vip" },
+  { "user": "ab", "pass": "mod", "type": "vip" },
+  { "user": "ab1", "pass" "mod", "type": "vip" },
+  { "user": "ab3", "pass" "mod",  "type": "vip" }
 ]
