@@ -1,6 +1,6 @@
 [
-  { "user": "Aizen", "pass": "op", "type": "vip" },
-  { "user": "ab", "pass": "op", "type": "vip" },
-  { "user": "ab1", "pass": "op", "type": "vip" },
-  { "user": "ab3", "pass": "op", "type": "vip" }
+  { "user": "Aizen", "pass": "Teamop", "type": "vip" },
+  { "user": "ab", "pass": "Teamop", "type": "vip" },
+  { "user": "ab1", "pass": "Teamop", "type": "vip" },
+  { "user": "ab3", "pass": "Teamop", "type": "vip" }
 ]
